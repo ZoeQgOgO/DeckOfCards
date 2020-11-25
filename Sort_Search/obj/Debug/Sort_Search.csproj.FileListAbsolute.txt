@@ -1,0 +1,7 @@
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\bin\Debug\Sort_Search.exe.config
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\bin\Debug\Sort_Search.exe
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\bin\Debug\Sort_Search.pdb
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\obj\Debug\Sort_Search.csprojAssemblyReference.cache
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\obj\Debug\Sort_Search.csproj.CoreCompileInputs.cache
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\obj\Debug\Sort_Search.exe
+C:\Users\leuco\source\repos\Sort_Search\Sort_Search\obj\Debug\Sort_Search.pdb
